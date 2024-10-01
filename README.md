@@ -26,7 +26,7 @@ git clone https://github.com/arpitgoyal878/Authentication-nextjs.git
 
 2. Go to the project folder
 ```bash
-cd NextJS-Authentication
+cd Authentication-nextjs
 ```
 
 3. Install NPM packages
